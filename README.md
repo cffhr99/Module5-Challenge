@@ -10,7 +10,7 @@ The purpose of this project it to perform analysis of Pyber ride sharing data to
 
 ## Results
 Through analysis, the table below is the summary for each city type.
-![City Types Summary]()
+![City Types Summary](https://github.com/cffhr99/Module5-Challenge/blob/main/Resources/fare_type_summary.PNG?raw=true)
 
 
 ![Pyber fare summary](https://github.com/cffhr99/Module5-Challenge/blob/main/Resources/Pyber_fare_summary.png?raw=true)
